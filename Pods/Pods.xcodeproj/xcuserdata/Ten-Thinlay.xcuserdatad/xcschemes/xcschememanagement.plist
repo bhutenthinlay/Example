@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>GooglePlacesSearchController.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>Pods-GooglePlacesSearchController_Example.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>Pods-GooglePlacesSearchController_Tests.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>2D4F8458E5B7E23FDFC7FA89E5B3EF75</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>DB94B4958B7477F8579BA040F5FAC99A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F42FAAA4B298B3EE2F88E7150EF1BB1E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
