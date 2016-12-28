@@ -39,4 +39,8 @@ class ViewController: UIViewController {
         
         present(controller, animated: true, completion: nil)
     }
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        print("hello")
+    }
 }
